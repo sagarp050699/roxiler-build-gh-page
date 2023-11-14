@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roxiler-build-gh-page/static/css/main.7c3943ab.css",
+    "main.js": "/roxiler-build-gh-page/static/js/main.207adf0c.js",
+    "index.html": "/roxiler-build-gh-page/index.html",
+    "main.7c3943ab.css.map": "/roxiler-build-gh-page/static/css/main.7c3943ab.css.map",
+    "main.207adf0c.js.map": "/roxiler-build-gh-page/static/js/main.207adf0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3943ab.css",
+    "static/js/main.207adf0c.js"
+  ]
+}
